@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.6",
+	"FriendlyName": "Onset VoIP plugin",
+	"Description": "Feature rich plugin for VoIP communication.",
+	"Category": "Other",
+	"CreatedBy": "Blue Mountains GmbH",
+	"CreatedByURL": "https://onset.gg",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d53a88511bb14a60a7b4082a6f2544f2",
+	"SupportURL": "unreal.mp@bluemountains.io",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OnsetVoip",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac",
+				"Android"
+			]
+		}
+	]
+}

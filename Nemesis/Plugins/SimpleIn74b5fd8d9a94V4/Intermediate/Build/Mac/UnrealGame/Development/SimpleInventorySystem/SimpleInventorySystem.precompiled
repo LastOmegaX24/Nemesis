@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Development/SimpleInventorySystem/Module.SimpleInventorySystem.cpp.o",
+		"../../../arm64/UnrealGame/Development/SimpleInventorySystem/Module.SimpleInventorySystem.cpp.o",
+		"../../../x64/UnrealGame/Development/SimpleInventorySystem/Module.SimpleInventorySystem.cpp.o",
+		"../../../x64/UnrealGame/Development/SimpleInventorySystem/Module.SimpleInventorySystem.cpp.o"
+	]
+}

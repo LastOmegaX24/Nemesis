@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.5",
+	"FriendlyName": "SimpleInventorySystem",
+	"Description": "A simple, easy-to-use system",
+	"Category": "Inventory System",
+	"CreatedBy": "Mecanes",
+	"CreatedByURL": "https://linktr.ee/mecanes",
+	"DocsURL": "https://github.com/Mecanes/Doc-SimpleInventorySystem",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/69276853b46e4f11931b80d22a9e82dd",
+	"SupportURL": "https://discord.gg/pa6NQkhgyf",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SimpleInventorySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}

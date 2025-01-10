@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Development/MeleeTrace/Module.MeleeTrace.cpp.o",
+		"../../../arm64/UnrealGame/Development/MeleeTrace/Module.MeleeTrace.cpp.o",
+		"../../../x64/UnrealGame/Development/MeleeTrace/Module.MeleeTrace.cpp.o",
+		"../../../x64/UnrealGame/Development/MeleeTrace/Module.MeleeTrace.cpp.o"
+	]
+}
