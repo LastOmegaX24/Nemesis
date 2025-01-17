@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.2.2",
+	"FriendlyName": "GMCv2",
+	"Description": "Generic framework for creating advanced replicated movement systems and more.",
+	"Category": "GRIMTEC",
+	"CreatedBy": "Dominik Lips",
+	"CreatedByURL": "https://grimtec.net",
+	"DocsURL": "https://grimtec.net/gmcv2-doc-contents",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/G37j8JHkMz",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GMCCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "GMCEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	]
+}

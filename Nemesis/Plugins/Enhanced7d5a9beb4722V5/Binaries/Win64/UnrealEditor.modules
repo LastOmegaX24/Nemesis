@@ -1,8 +1,0 @@
-{
-	"BuildId": "37670630",
-	"Modules": 
-	{
-		"InputSequenceCore": "UnrealEditor-InputSequenceCore.dll",
-		"InputSequenceCoreEditor": "UnrealEditor-InputSequenceCoreEditor.dll"
-	}
-}

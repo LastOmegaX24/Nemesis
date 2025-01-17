@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"../../../arm64/UnrealGame/Shipping/EasyBallistics/Module.EasyBallistics.cpp.o",
-		"../../../arm64/UnrealGame/Shipping/EasyBallistics/Module.EasyBallistics.cpp.o",
-		"../../../x64/UnrealGame/Shipping/EasyBallistics/Module.EasyBallistics.cpp.o",
-		"../../../x64/UnrealGame/Shipping/EasyBallistics/Module.EasyBallistics.cpp.o"
-	]
-}
